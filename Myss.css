@@ -1,0 +1,33 @@
+﻿body
+{
+}
+
+strong {
+    color: 9DFB23;
+}
+
+btn {
+    color: 9DFB23;
+}
+
+.btn-light {
+    background-color: #00A43D;
+    border-color: #00A43D;
+}
+
+.btn-light:hover {
+    background-color: #9DFB23;
+}
+
+.buffer {
+    height: 12rem;
+}
+
+.wrapper {
+    background-color: #445F4E;
+}
+
+.shopitem {
+    background-color: #F7F7F7;
+    padding: 0rem 1rem 1rem 1rem;
+}
